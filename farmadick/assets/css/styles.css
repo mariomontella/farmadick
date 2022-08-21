@@ -278,7 +278,7 @@ hgroup {
 
 .container-fluid4 {
   background-image: url(../img/banner4.png);
-  background-size: contain;
+  background-size: cover;
   background-repeat:no-repeat;
   
 
