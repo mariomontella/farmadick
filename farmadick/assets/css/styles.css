@@ -1,4 +1,4 @@
-/*===== GOOGLE FONTS =====*/
+ /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 /*===== VARIABLES CSS =====*/
 :root{
@@ -284,14 +284,11 @@ hgroup {
 
 }
 
-
 #banner4 {
   color: #000000;
   position: relative;
- 
   top: 23%; 
-  background-size: contain;
-    background-repeat: no-repeat;
+ 
 }
 
 /*footer{
@@ -402,8 +399,7 @@ form button{
   
   .home__img{
     order: 1;
-    width: 375px;
-    height: 289px;
+   
   }
 
   .home__img img{
