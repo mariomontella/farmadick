@@ -1,5 +1,17 @@
  /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+.row {
+  margin-left: 0 !important ;
+  margin-right: 0 !important;
+  padding: 0 !important;
+}
+
+.container .row {
+    margin-left: -15px !important;
+    margin-right: -15px !important;
+}
+
 /*===== VARIABLES CSS =====*/
 :root{
   --header-height: 4rem;
